@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "Securing Our Digital Natives: a Study of Commonly Experience Internet Safety Issues and a One-Stop Solution“
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/securing-digital-natives
+excerpt: 'This paper analyses the most common cyber threats and internet safety issues and provides solutions for most of these threats.'
+date: 2017-03-10
+venue: 'ICEGOV 17: Proceedings of the 10th International Conference on Theory and Practice of Electronic Governance'
+paperurl: 'http://akshath-singhal.github.io/files/agarwal2017.pdf'
+citation: 'Chandni Agarwal and Akshath Singhal. 2017. Securing Our Digital Natives: a Study of Commonly Experience Internet Safety Issues and a One-Stop Solution. In Proceedings of the 10th International Conference on Theory and Practice of Electronic Governance (ICEGOV 17). Association for Computing Machinery, New York, NY, USA, 178–186. DOI:/10.1145/3047273.3047303'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+This paper analyses the most common cyber threats and internet safety issues faced by teenagers and citizens in general. A smartphone application has been developed to provide solutions and awareness realted to these threats. A live chat feature with experts is also provided.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](http://akshath-singhal.github.io/files/agarwal2017.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Chandni Agarwal and Akshath Singhal. 2017. Securing Our Digital Natives: a Study of Commonly Experience Internet Safety Issues and a One-Stop Solution. In Proceedings of the 10th International Conference on Theory and Practice of Electronic Governance (ICEGOV 17). Association for Computing Machinery, New York, NY, USA, 178–186. DOI:10.1145/3047273.3047303.

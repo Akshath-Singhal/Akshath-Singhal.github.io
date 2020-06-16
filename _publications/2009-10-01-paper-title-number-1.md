@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "LQR-Based Cooperative Path Following of Multiple UAVs with Collision Avoidance"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/LQR-Cooperative-Path-Following-with-Collision-Avoidance
+excerpt: 'This paper entails an optimal cooperative path following strategy for multiple non-holonomic UAVs based of LQR guidance law. Special emphasis is given to inter uav collision and deadlock avoidance.'
+date: 2019-12-18
+venue: 'Indian Controls Conference 2020'
+paperurl: 'http://akshath-singhal.github.io/files/lqr.pdf'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper presents a Linear Quadratic Regulator (LQR) based approach for cooperative path following problem for multiple UAVs along with collision avoidance. The goal of each vehicle, in a fleet, is to track a given desired trajectory and coordinate with other vehicles to be in a desired formation, while avoiding collision with each other. We model the cooperative path following problem as an infinite horizon LQR problem which is solved to obtain the velocity and steering control commands.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](http://akshath-singhal.github.io/files/lqr.pdf)
